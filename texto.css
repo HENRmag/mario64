@@ -1,0 +1,13 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-image: url(img/AV9.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.navbar-light{
+    background-color: rgb(130, 158, 255)!important;
+}
